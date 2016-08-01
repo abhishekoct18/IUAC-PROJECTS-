@@ -1,0 +1,74 @@
+.HEADER
+BOARD_FILE    3.0    "PADS Layout 9.5"    2016/05/06.23:53:24    1
+"C:\PADS Projects\JNU\IUAC\IUAC_PCB\IUAC_BoardSim.emn"    THOU
+.END_HEADER
+.BOARD_OUTLINE    UNOWNED
+12.7
+0     3543.31                       0.0                           0     
+0     3543.31                       1181.1                        0     
+0     0.0                           1181.1                        0     
+0     0.0                           0.0                           0     
+0     3543.31                       0.0                           0     
+.END_BOARD_OUTLINE
+.DRILLED_HOLES
+110.000000 157.480315 157.480315 PTH    X4    PIN    UNOWNED
+110.000000 3385.826772 157.480315 PTH    X3    PIN    UNOWNED
+35.000000 168.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 268.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 368.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 468.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 568.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 668.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 768.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 868.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 968.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1068.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1168.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1268.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1368.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1468.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1568.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1668.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1768.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1868.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 1968.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2068.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2168.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2268.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2368.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2468.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2568.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2668.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2768.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2868.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 2968.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 3068.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 3168.000000 504.000000 PTH    J2    PIN    UNOWNED
+35.000000 3268.000000 504.000000 PTH    J2    PIN    UNOWNED
+110.000000 157.480315 1023.622047 PTH    X2    PIN    UNOWNED
+35.000000 400.000000 1000.000000 PTH    J1    PIN    UNOWNED
+35.000000 500.000000 1000.000000 PTH    J1    PIN    UNOWNED
+35.000000 600.000000 1000.000000 PTH    J1    PIN    UNOWNED
+35.000000 700.000000 1000.000000 PTH    J1    PIN    UNOWNED
+35.000000 1800.000000 1000.000000 PTH    J3    PIN    UNOWNED
+35.000000 1900.000000 1000.000000 PTH    J3    PIN    UNOWNED
+35.000000 2000.000000 1000.000000 PTH    J3    PIN    UNOWNED
+35.000000 2100.000000 1000.000000 PTH    J3    PIN    UNOWNED
+110.000000 3385.826772 1023.622047 PTH    X1    PIN    UNOWNED
+.END_DRILLED_HOLES
+.PLACEMENT
+SIP-4P                                       HEADER04                                     J1                                           
+400.0                         1000.0                        0.0                           0.0       TOP       PLACED    
+SIP-4P                                       HEADER04                                     J3                                           
+1800.0                        1000.0                        0.0                           0.0       TOP       PLACED    
+SIP-8P                                       HEADER08                                     J2                                           
+168.0                         504.0                         0.0                           0.0       TOP       PLACED    
+MTHOLE4                                      MTHOLE4                                      X1                                           
+3385.83                       1023.62                       0.0                           0.0       TOP       PLACED    
+MTHOLE4                                      MTHOLE4                                      X2                                           
+157.48                        1023.62                       0.0                           0.0       TOP       PLACED    
+MTHOLE4                                      MTHOLE4                                      X3                                           
+3385.83                       157.48                        0.0                           0.0       TOP       PLACED    
+MTHOLE4                                      MTHOLE4                                      X4                                           
+157.48                        157.48                        0.0                           0.0       TOP       PLACED    
+.END_PLACEMENT

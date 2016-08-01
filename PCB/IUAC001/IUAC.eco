@@ -1,0 +1,277 @@
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Sun Apr 24 15:03:45 2016
+
+
+*DELPIN*
+J2.1    IA+
+J2.9    IA+
+J2.17    IA+
+J2.25    IA+
+J3.1    IA+
+J2.3    IB+
+J2.11    IB+
+J2.19    IB+
+J2.27    IB+
+J3.2    IB+
+J2.5    IC+
+J2.7    IC+
+J2.13    IC+
+J2.21    IC+
+J2.29    IC+
+J3.3    IC+
+J2.15    ID+
+J2.23    ID+
+J2.31    ID+
+J3.4    ID+
+J2.2    N02373
+J2.4    N02373
+J2.6    N02373
+J2.8    N02373
+J1.1    N02373
+J2.10    N02547
+J2.12    N02547
+J2.14    N02547
+J2.16    N02547
+J1.2    N02547
+J2.18    N03189
+J2.20    N03189
+J2.22    N03189
+J2.24    N03189
+J1.3    N03189
+J2.26    N03978
+J2.28    N03978
+J2.30    N03978
+J2.32    N03978
+J1.4    N03978
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Sun Apr 24 15:06:23 2016
+
+
+*DELPART*
+J2A HEADER08
+J3A HEADER08
+J4 HEADER08
+
+*DELPIN*
+J2.1    IA+
+J2.2    N02373
+J2.3    IB+
+J2.4    N02373
+J2.5    IC+
+J2.6    N02373
+J2.7    ID+
+J1.1    N02373
+J2.8    N02373
+J2.9    IA+
+J2.10    N02547
+J2.11    IB+
+J2.12    N02547
+J2.13    IC+
+J2.14    N02547
+J2.15    ID+
+J1.2    N02547
+J2.16    N02547
+J2.17    IA+
+J2.18    N03189
+J2.19    IB+
+J2.20    N03189
+J2.21    IC+
+J2.22    N03189
+J2.23    ID+
+J2.24    N03189
+J1.3    N03189
+J3.1    IA+
+J2.25    IA+
+J2.26    N03978
+J3.2    IB+
+J2.27    IB+
+J2.28    N03978
+J3.3    IC+
+J2.29    IC+
+J2.30    N03978
+J3.4    ID+
+J2.31    ID+
+J2.32    N03978
+J1.4    N03978
+
+*DELPART*
+J2 HEADER34
+
+*RENPART*
+J1A J2
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Sun Apr 24 15:09:37 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Sun Apr 24 15:11:17 2016
+
+
+*PART*
+X1 MTHOLE4
+
+*SET_ATTRIBUTE* PARTTYPE MTHOLE4
+"Description" MOUNTING HOLE FOR #4 SCREW, 110 MIL ROUND
+"Cost" 
+"Part Number" MTHOLE1
+"Manufacturer #1" 
+
+*PART*
+X2 MTHOLE4
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- IUAC.pcb -- Sun Apr 24 15:18:10 2016
+
+*MODIFY_GENERAL_RULES* CLEARANCE
+HIERARCHY_OBJECT  PCB:PCB
+MIN_TRACK_WIDTH           12
+REC_TRACK_WIDTH           60
+MAX_TRACK_WIDTH           80
+TRACK_TO_TRACK            6
+VIA_TO_TRACK              6
+VIA_TO_VIA                6
+PAD_TO_TRACK              6
+PAD_TO_VIA                6
+PAD_TO_PAD                6
+SMD_TO_TRACK              6
+SMD_TO_VIA                6
+SMD_TO_PAD                6
+SMD_TO_SMD                6
+COPPER_TO_TRACK           6
+COPPER_TO_VIA             6
+COPPER_TO_PAD             6
+COPPER_TO_SMD             6
+COPPER_TO_COPPER          6
+TEXT_TO_TRACK             6
+TEXT_TO_VIA               6
+TEXT_TO_PAD               6
+TEXT_TO_SMD               6
+OUTLINE_TO_TRACK          6
+OUTLINE_TO_VIA            6
+OUTLINE_TO_PAD            6
+OUTLINE_TO_SMD            6
+OUTLINE_TO_COPPER         6
+DRILL_TO_TRACK            6
+DRILL_TO_VIA              6
+DRILL_TO_PAD              6
+DRILL_TO_SMD              6
+DRILL_TO_COPPER           6
+SAME_NET_SMD_TO_VIA       6
+SAME_NET_SMD_TO_CRN       6
+SAME_NET_VIA_TO_VIA       6
+SAME_NET_PAD_TO_CRN       6
+SAME_NET_TRACK_TO_CRN     0
+DRILL_TO_DRILL            6
+BODY_TO_BODY              6
+
+*MODIFY_GENERAL_RULES* CLEARANCE
+HIERARCHY_OBJECT  PCB:PCB
+MIN_TRACK_WIDTH           12
+REC_TRACK_WIDTH           40
+MAX_TRACK_WIDTH           80
+TRACK_TO_TRACK            6
+VIA_TO_TRACK              6
+VIA_TO_VIA                6
+PAD_TO_TRACK              6
+PAD_TO_VIA                6
+PAD_TO_PAD                6
+SMD_TO_TRACK              6
+SMD_TO_VIA                6
+SMD_TO_PAD                6
+SMD_TO_SMD                6
+COPPER_TO_TRACK           6
+COPPER_TO_VIA             6
+COPPER_TO_PAD             6
+COPPER_TO_SMD             6
+COPPER_TO_COPPER          6
+TEXT_TO_TRACK             6
+TEXT_TO_VIA               6
+TEXT_TO_PAD               6
+TEXT_TO_SMD               6
+OUTLINE_TO_TRACK          6
+OUTLINE_TO_VIA            6
+OUTLINE_TO_PAD            6
+OUTLINE_TO_SMD            6
+OUTLINE_TO_COPPER         6
+DRILL_TO_TRACK            6
+DRILL_TO_VIA              6
+DRILL_TO_PAD              6
+DRILL_TO_SMD              6
+DRILL_TO_COPPER           6
+SAME_NET_SMD_TO_VIA       6
+SAME_NET_SMD_TO_CRN       6
+SAME_NET_VIA_TO_VIA       6
+SAME_NET_PAD_TO_CRN       6
+SAME_NET_TRACK_TO_CRN     0
+DRILL_TO_DRILL            6
+BODY_TO_BODY              6
+
+
+*PART*
+X3 MTHOLE4
+X4 MTHOLE4
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- IUAC.pcb -- Sun Apr 24 18:37:41 2016
+
+*END*
+*PADS-ECO-V9.5-METRIC*
+
+*REMARK* -- IUAC.pcb -- Sun Apr 24 18:57:12 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Wed May 04 17:53:56 2016
+
+
+*NET*
+*SIGNAL* $$$1 60
+X2.1 X4.1
+X4.1 X3.1
+X3.1 X1.1
+X1.1 X2.1
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Fri May 06 23:25:58 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Fri May 06 23:26:28 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Sat May 07 09:35:21 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Sat May 07 22:20:01 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Sat May 07 22:35:08 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Mon Jun 13 07:23:54 2016
+
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- IUAC.pcb -- Mon Jun 13 07:25:38 2016
+
+*END*

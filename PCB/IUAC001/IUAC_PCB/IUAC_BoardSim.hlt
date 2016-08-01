@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<thermo>
+<import>
+<idf_board>C:\PADS Projects\JNU\IUAC\IUAC_PCB\IUAC_BoardSim.emn</idf_board>
+<idf_lib>C:\PADS Projects\JNU\IUAC\IUAC_PCB\IUAC_BoardSim.emp</idf_lib>
+<hyp>C:\PADS Projects\JNU\IUAC\IUAC_PCB\IUAC_BoardSim.hyp</hyp>
+</import>
+</thermo>

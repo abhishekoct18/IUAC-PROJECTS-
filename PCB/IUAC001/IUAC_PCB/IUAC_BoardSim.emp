@@ -1,0 +1,27 @@
+.HEADER
+LIBRARY_FILE    3.0    "PADS Layout 9.5"    2016/05/06.23:53:24    1
+.END_HEADER
+.ELECTRICAL
+SIP-4P                                       HEADER04                                     THOU      0.0                      
+0     -50.0                         50.0                          0     
+0     -50.0                         -50.0                         0     
+0     350.0                         -50.0                         0     
+0     350.0                         50.0                          0     
+0     -50.0                         50.0                          0     
+.END_ELECTRICAL
+.ELECTRICAL
+SIP-8P                                       HEADER08                                     THOU      0.0                      
+0     -50.0                         50.0                          0     
+0     -50.0                         -50.0                         0     
+0     3149.61                       -50.0                         0     
+0     3149.61                       50.0                          0     
+0     -50.0                         50.0                          0     
+.END_ELECTRICAL
+.ELECTRICAL
+MTHOLE4                                      MTHOLE4                                      THOU      0.0                      
+0     -125.0                   -125.0                   0     
+0     125.0                    -125.0                   0     
+0     125.0                    125.0                    0     
+0     -125.0                   125.0                    0     
+0     -125.0                   -125.0                   0     
+.END_ELECTRICAL
